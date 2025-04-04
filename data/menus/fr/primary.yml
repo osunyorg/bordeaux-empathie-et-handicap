@@ -29,4 +29,11 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Ressources
+  target: "/ressources/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/ressources"
+  file: content/fr/pages/ressources/_index.html
 
