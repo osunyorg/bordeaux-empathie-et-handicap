@@ -2,13 +2,19 @@
 
 fr:
   title: >-
-    Empathie et handicap
+    EmpathieHandicap
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   buildFuture: true
   params:
     contact_details:
+      social_networks:
+        github:
+          label: >-
+            osunyorg/bordeaux-empathie-et-handicap
+          value: >-
+            https://github.com/osunyorg/bordeaux-empathie-et-handicap
 
   permalinks:
     pages_categories: /:slug/
