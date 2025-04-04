@@ -12,7 +12,14 @@ items:
   target: "/jeux/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: Sentiers Croisés
+    target: "/jeux/sentiers-croises/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/jeux/sentiers-croises"
+    file: content/fr/pages/jeux/sentiers-croises/_index.html
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Équipe
