@@ -20,6 +20,20 @@ items:
     children: []
     path: "/pages/jeux/sentiers-croises"
     file: content/fr/pages/jeux/sentiers-croises/_index.html
+  - title: Silence Éloquent
+    target: "/jeux/silence-eloquent/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/jeux/silence-eloquent"
+    file: content/fr/pages/jeux/silence-eloquent/_index.html
+  - title: Au-delà des Sens
+    target: "/jeux/au-dela-des-sens/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/jeux/au-dela-des-sens"
+    file: content/fr/pages/jeux/au-dela-des-sens/_index.html
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Équipe
