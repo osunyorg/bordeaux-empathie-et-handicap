@@ -34,6 +34,13 @@ items:
     children: []
     path: "/pages/jeux/au-dela-des-sens"
     file: content/fr/pages/jeux/au-dela-des-sens/_index.html
+  - title: Regards Partagés
+    target: "/jeux/regards-partages/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/jeux/regards-partages"
+    file: content/fr/pages/jeux/regards-partages/_index.html
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Équipe
