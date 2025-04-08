@@ -20,13 +20,6 @@ items:
     children: []
     path: "/pages/les-jeux/sentiers-croises"
     file: content/fr/pages/les-jeux/sentiers-croises/_index.html
-  - title: Silence Éloquent
-    target: "/les-jeux/silence-eloquent/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-jeux/silence-eloquent"
-    file: content/fr/pages/les-jeux/silence-eloquent/_index.html
   - title: Au-delà des Sens
     target: "/les-jeux/au-dela-des-sens/"
     kind: page
