@@ -9,38 +9,38 @@ items:
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: 'Les jeux '
-  target: "/jeux/"
+  target: "/les-jeux/"
   kind: page
   new_tab: false
   children:
   - title: Sentiers Croisés
-    target: "/jeux/sentiers-croises/"
+    target: "/les-jeux/sentiers-croises/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/jeux/sentiers-croises"
-    file: content/fr/pages/jeux/sentiers-croises/_index.html
+    path: "/pages/les-jeux/sentiers-croises"
+    file: content/fr/pages/les-jeux/sentiers-croises/_index.html
   - title: Silence Éloquent
-    target: "/jeux/silence-eloquent/"
+    target: "/les-jeux/silence-eloquent/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/jeux/silence-eloquent"
-    file: content/fr/pages/jeux/silence-eloquent/_index.html
+    path: "/pages/les-jeux/silence-eloquent"
+    file: content/fr/pages/les-jeux/silence-eloquent/_index.html
   - title: Au-delà des Sens
-    target: "/jeux/au-dela-des-sens/"
+    target: "/les-jeux/au-dela-des-sens/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/jeux/au-dela-des-sens"
-    file: content/fr/pages/jeux/au-dela-des-sens/_index.html
+    path: "/pages/les-jeux/au-dela-des-sens"
+    file: content/fr/pages/les-jeux/au-dela-des-sens/_index.html
   - title: Regards Partagés
-    target: "/jeux/regards-partages/"
+    target: "/les-jeux/regards-partages/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/jeux/regards-partages"
-    file: content/fr/pages/jeux/regards-partages/_index.html
+    path: "/pages/les-jeux/regards-partages"
+    file: content/fr/pages/les-jeux/regards-partages/_index.html
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Équipe
