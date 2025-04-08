@@ -12,14 +12,7 @@ items:
   target: "/les-jeux/"
   kind: page
   new_tab: false
-  children:
-  - title: Regards Partagés
-    target: "/les-jeux/regards-partages/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/les-jeux/regards-partages"
-    file: content/fr/pages/les-jeux/regards-partages/_index.html
+  children: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Équipe
@@ -36,11 +29,4 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Ressources
-  target: "/ressources/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/ressources"
-  file: content/fr/pages/ressources/_index.html
 
