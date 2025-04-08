@@ -1,0 +1,6 @@
+.block-pages .grid article, .block-pages .cards article, .block-pages .list article, .pages .grid article, .pages .cards article, .pages .list article{
+    border-radius: var(--Espacement---2, 0.75rem);
+    background: $primary-saumon;
+    display: flex;
+    flex-direction: row;
+}
