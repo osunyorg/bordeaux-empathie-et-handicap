@@ -18,8 +18,8 @@ fr:
 
   permalinks:
     pages_categories: /:slug/
-    projects: /les-jeux/:year-:slug/
-    projects_categories: /les-jeux/:slug/
+    projects: /projet/:year-:slug/
+    projects_categories: /projet/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
   taxonomies:
