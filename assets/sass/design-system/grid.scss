@@ -1,6 +1,47 @@
 .block-pages .grid article, .block-pages .cards article, .block-pages .list article, .pages .grid article, .pages .cards article, .pages .list article{
-    border-radius: var(--Espacement---2, 0.75rem);
     background: $primary-saumon;
     display: flex;
     flex-direction: row;
+    padding: 1.5rem;
+    column-gap: 1.5rem;
+    border-radius: 10px;
+    width: fit-content;
+}
+
+
+
+.block-pages .grid article .media, .block-pages .cards article .media, .block-pages .list article .media, .pages .grid article .media, .pages .cards article .media, .pages .list article .media{
+    border-radius: 5px;
+    margin: 0;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    height: fit-content;
+}
+
+@media screen and (max-width:1000px) {
+    .block-pages .grid article .media, .block-pages .cards article .media, .block-pages .list article .media, .pages .grid article .media, .pages .cards article .media, .pages .list article .media{
+        
+    }
+
+}
+
+
+
+
+main > .blocks .block-pages .grid, body.full-width .block-pages .grid, main > .blocks .block-pages .cards, body.full-width .block-pages .cards, main > .blocks .pages .grid, body.full-width .pages .grid, main > .blocks .pages .cards, body.full-width .pages .cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.block-pages .grid, .block-pages .cards, .pages .grid, .pages .cards {
+     display: block;
+
+}
+
+.containerSummeryLink{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
 }

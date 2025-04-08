@@ -19,19 +19,20 @@
 
       {{ with $page }}
         <article class="page">
-          {{ $heading_tag.open }}
+          {{- partial "pages/partials/page/hook-after-title.html" . -}}
+          <div class="containerSummeryLink">
+            <p>{{- partial "PrepareHTML" .Title -}}</p>
+            {{ if and $options.summary .Params.summary }}
+            {{ partial "GetRichSummary" ( dict 
+            "summary" .Params.summary
+            "kind" "pages"
+            )}}
+            {{ $heading_tag.open }}
             <a href="{{- .Permalink -}}">
-              {{- partial "PrepareHTML" .Title -}}
+              Voir plus
             </a>
           {{ $heading_tag.close }}
-
-          {{- partial "pages/partials/page/hook-after-title.html" . -}}
-
-          {{ if and $options.summary .Params.summary }}
-            {{ partial "GetRichSummary" ( dict 
-              "summary" .Params.summary
-              "kind" "pages"
-            )}}
+          </div>
           {{ end }}
           {{/*  TODO: set right options when admin is ready  */}}
           {{ if site.Params.pages.index.options.categories }}
