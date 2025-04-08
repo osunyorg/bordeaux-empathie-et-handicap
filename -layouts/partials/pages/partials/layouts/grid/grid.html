@@ -6,7 +6,6 @@
 )}}
 {{ with .pages }}
   <div class="grid">
-    <p>ici c'est le grip</p>
     {{ range . }}
       {{/*  Check if . is a map or page url, necessary when pages/list is called outside block context */}}
       {{- $path := false -}}
