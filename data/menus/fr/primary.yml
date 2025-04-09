@@ -14,12 +14,12 @@ items:
     path: "/pages/comment-sensibiliser-un-groupe"
     file: content/fr/pages/comment-sensibiliser-un-groupe/_index.html
   - title: Comment s'informer ?
-    target: "/comment-sinformer/"
+    target: "/actions/comment-sinformer/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/comment-sinformer"
-    file: content/fr/pages/comment-sinformer/_index.html
+    path: "/pages/actions/comment-sinformer"
+    file: content/fr/pages/actions/comment-sinformer/_index.html
   - title: Comment inclure une personne en situation d'handicap ?
     target: "/actions/comment-inclure-une-personne-en-situation-dhandicap/"
     kind: page
