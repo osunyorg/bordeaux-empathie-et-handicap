@@ -20,7 +20,7 @@ items:
     children: []
     path: "/pages/actions/sinformer"
     file: content/fr/pages/actions/sinformer/_index.html
-  - title: Comment inclure une personne en situation d'handicap ?
+  - title: Inclure
     target: "/actions/inclure/"
     kind: page
     new_tab: false
