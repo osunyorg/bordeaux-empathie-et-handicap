@@ -13,7 +13,7 @@ items:
     children: []
     path: "/pages/actions/sensibiliser"
     file: content/fr/pages/actions/sensibiliser/_index.html
-  - title: Comment s'informer ?
+  - title: S'informer
     target: "/actions/sinformer/"
     kind: page
     new_tab: false
