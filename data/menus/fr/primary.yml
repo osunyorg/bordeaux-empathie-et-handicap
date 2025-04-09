@@ -6,7 +6,7 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Comment sensibiliser un groupe ?
+  - title: Sensibiliser
     target: "/actions/sensibiliser/"
     kind: page
     new_tab: false
