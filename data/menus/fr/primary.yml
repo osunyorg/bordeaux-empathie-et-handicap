@@ -7,12 +7,12 @@ items:
   new_tab: false
   children:
   - title: Comment sensibiliser un groupe ?
-    target: "/jeux/comment-sensibiliser-un-groupe/"
+    target: "/comment-sensibiliser-un-groupe/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/jeux/comment-sensibiliser-un-groupe"
-    file: content/fr/pages/jeux/comment-sensibiliser-un-groupe/_index.html
+    path: "/pages/comment-sensibiliser-un-groupe"
+    file: content/fr/pages/comment-sensibiliser-un-groupe/_index.html
   - title: Comment s'informer ?
     target: "/jeux/comment-sinformer/"
     kind: page
