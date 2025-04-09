@@ -14,19 +14,19 @@ items:
     path: "/pages/comment-sensibiliser-un-groupe"
     file: content/fr/pages/comment-sensibiliser-un-groupe/_index.html
   - title: Comment s'informer ?
-    target: "/jeux/comment-sinformer/"
+    target: "/comment-sinformer/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/jeux/comment-sinformer"
-    file: content/fr/pages/jeux/comment-sinformer/_index.html
+    path: "/pages/comment-sinformer"
+    file: content/fr/pages/comment-sinformer/_index.html
   - title: Comment inclure une personne en situation d'handicap ?
-    target: "/jeux/comment-inclure-une-personne-en-situation-dhandicap/"
+    target: "/comment-inclure-une-personne-en-situation-dhandicap/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/jeux/comment-inclure-une-personne-en-situation-dhandicap"
-    file: content/fr/pages/jeux/comment-inclure-une-personne-en-situation-dhandicap/_index.html
+    path: "/pages/comment-inclure-une-personne-en-situation-dhandicap"
+    file: content/fr/pages/comment-inclure-une-personne-en-situation-dhandicap/_index.html
   path: "/projects"
   file: content/fr/projects/_index.html
 
