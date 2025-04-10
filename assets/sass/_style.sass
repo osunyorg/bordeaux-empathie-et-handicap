@@ -36,3 +36,7 @@
 // $button-desktop: (font-size: 18px, font-family: 'Excon-Medium')
 
 // $button: (font-size: 16px, font-family: 'Excon-Medium')
+
+@include media-breakpoint-up(desktop)
+    .projects--grid
+        grid-template-columns: repeat(3, 1fr)
