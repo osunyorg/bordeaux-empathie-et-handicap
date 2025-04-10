@@ -1,39 +1,39 @@
 ---
 title: Menu principal
 items:
-- title: Tous les jeux
+- title: Les actions
   target: "/jeux/"
   kind: page
   new_tab: false
   children:
-  - title: Les actions
-    target: "/jeux/"
+  - title: Sensibiliser
+    target: "/actions/sensibiliser/"
     kind: page
     new_tab: false
-    children:
-    - title: Sensibiliser
-      target: "/actions/sensibiliser/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/actions/sensibiliser"
-      file: content/fr/pages/actions/sensibiliser/_index.html
-    - title: S'informer
-      target: "/actions/sinformer/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/actions/sinformer"
-      file: content/fr/pages/actions/sinformer/_index.html
-    - title: Inclure
-      target: "/actions/inclure/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/actions/inclure"
-      file: content/fr/pages/actions/inclure/_index.html
-    path: "/projects"
-    file: content/fr/projects/_index.html
+    children: []
+    path: "/pages/actions/sensibiliser"
+    file: content/fr/pages/actions/sensibiliser/_index.html
+  - title: S'informer
+    target: "/actions/sinformer/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/actions/sinformer"
+    file: content/fr/pages/actions/sinformer/_index.html
+  - title: Inclure
+    target: "/actions/inclure/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/actions/inclure"
+    file: content/fr/pages/actions/inclure/_index.html
+  path: "/projects"
+  file: content/fr/projects/_index.html
+- title: Tous les jeux
+  target: "/jeux/"
+  kind: page
+  new_tab: false
+  children: []
   path: "/projects"
   file: content/fr/projects/_index.html
 
