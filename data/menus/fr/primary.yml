@@ -6,6 +6,13 @@ items:
   kind: page
   new_tab: false
   children:
+  - title: Comprendre
+    target: "/actions/comprendre/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/actions/comprendre"
+    file: content/fr/pages/actions/comprendre/_index.html
   - title: Sensibiliser
     target: "/actions/sensibiliser/"
     kind: page
@@ -20,13 +27,6 @@ items:
     children: []
     path: "/pages/actions/sinformer"
     file: content/fr/pages/actions/sinformer/_index.html
-  - title: Comprendre
-    target: "/actions/comprendre/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/actions/comprendre"
-    file: content/fr/pages/actions/comprendre/_index.html
   path: "/pages/actions"
   file: content/fr/pages/actions/_index.html
 - title: Tous les jeux
