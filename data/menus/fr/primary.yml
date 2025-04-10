@@ -20,7 +20,7 @@ items:
     children: []
     path: "/pages/actions/sinformer"
     file: content/fr/pages/actions/sinformer/_index.html
-  - title: Inclure
+  - title: Comprendre
     target: "/actions/comprendre/"
     kind: page
     new_tab: false
