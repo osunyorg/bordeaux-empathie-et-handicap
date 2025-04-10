@@ -21,12 +21,12 @@ items:
     path: "/pages/actions/sinformer"
     file: content/fr/pages/actions/sinformer/_index.html
   - title: Inclure
-    target: "/actions/inclure/"
+    target: "/actions/comprendre/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/actions/inclure"
-    file: content/fr/pages/actions/inclure/_index.html
+    path: "/pages/actions/comprendre"
+    file: content/fr/pages/actions/comprendre/_index.html
   path: "/pages/actions"
   file: content/fr/pages/actions/_index.html
 - title: Tous les jeux
