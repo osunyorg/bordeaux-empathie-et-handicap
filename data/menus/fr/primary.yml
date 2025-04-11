@@ -1,34 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Les actions
-  target: "/actions-page/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Comprendre
-    target: "/actions-page/comprendre-page/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/actions-page/comprendre-page"
-    file: content/fr/pages/actions-page/comprendre-page/_index.html
-  - title: S'informer
-    target: "/actions-page/sinformer/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/actions-page/sinformer"
-    file: content/fr/pages/actions-page/sinformer/_index.html
-  - title: Sensibiliser
-    target: "/actions-page/sensibiliser/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/actions-page/sensibiliser"
-    file: content/fr/pages/actions-page/sensibiliser/_index.html
-  path: "/pages/actions-page"
-  file: content/fr/pages/actions-page/_index.html
 - title: Tous les jeux
   target: "/jeux/"
   kind: page
