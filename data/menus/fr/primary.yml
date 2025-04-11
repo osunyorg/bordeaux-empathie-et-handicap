@@ -12,5 +12,10 @@ items:
   target: "/jeux/actions/"
   kind: url
   new_tab: false
-  children: []
+  children:
+  - title: Sensibiliser
+    target: "/jeux/actions/sensibiliser/"
+    kind: url
+    new_tab: false
+    children: []
 
