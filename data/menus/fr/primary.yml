@@ -1,34 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Actions
-  target: "/jeux/actions/"
-  kind: url
-  new_tab: false
-  children:
-  - title: Comprendre
-    target: "/jeux/actions/comprendre/"
-    kind: url
-    new_tab: false
-    children: []
-    path: "/"
-    file: 
-  - title: S'informer
-    target: "/jeux/actions/sinformer/"
-    kind: url
-    new_tab: false
-    children: []
-    path: "/"
-    file: 
-  - title: Sensibiliser
-    target: "/jeux/actions/sensibiliser/"
-    kind: url
-    new_tab: false
-    children: []
-    path: "/"
-    file: 
-  path: "/"
-  file: 
 - title: Jeux
   target: "/jeux/"
   kind: page
