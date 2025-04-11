@@ -5,7 +5,14 @@ items:
   target: "/jeux/actions/"
   kind: url
   new_tab: false
-  children: []
+  children:
+  - title: Comprendre
+    target: "/jeux/actions/comprendre/"
+    kind: url
+    new_tab: false
+    children: []
+    path: "/"
+    file: 
   path: "/"
   file: 
 - title: Tous les jeux
