@@ -29,7 +29,7 @@ items:
     file: 
   path: "/"
   file: 
-- title: Tous les jeux
+- title: Jeux
   target: "/jeux/"
   kind: page
   new_tab: false
