@@ -2,30 +2,43 @@
 title: Menu principal
 items:
 - title: Jeux
+  slug: jeux
   target: "/jeux/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Actions
+  slug: actions
   target: "/jeux/actions/"
   kind: url
   new_tab: false
   children:
   - title: Sensibiliser
+    slug: sensibiliser
     target: "/jeux/actions/sensibiliser/"
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: S'informer
+    slug: s-informer
     target: "/jeux/actions/sinformer/"
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Comprendre
+    slug: comprendre
     target: "/jeux/actions/comprendre/"
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
+  descendants_targets:
+  - "/jeux/actions/comprendre/"
+  - "/jeux/actions/sensibiliser/"
+  - "/jeux/actions/sinformer/"
 
