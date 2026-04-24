@@ -15,30 +15,30 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/jeux/sensibiliser/"
+from = "/jeux/sensibiliser/index.html"
 to = "/jeux/actions/sensibiliser/"
 
 [[redirects]]
-from = "/projet/"
+from = "/projet/index.html"
 to = "/jeux/"
 
 [[redirects]]
-from = "/jeux/inclure/"
+from = "/jeux/inclure/index.html"
 to = "/jeux/actions/comprendre/"
 
 [[redirects]]
-from = "/jeux/sinformer/"
+from = "/jeux/sinformer/index.html"
 to = "/jeux/actions/sinformer/"
 
 [[redirects]]
-from = "/jeux/comprendre/"
+from = "/jeux/comprendre/index.html"
 to = "/jeux/actions/comprendre/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/jeux/"
 
 [[redirects]]
-from = "/les-jeux/"
+from = "/les-jeux/index.html"
 to = "/jeux/"
 
