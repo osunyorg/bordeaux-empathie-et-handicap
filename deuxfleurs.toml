@@ -13,3 +13,32 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/jeux/sensibiliser/index.html"
+to = "/jeux/actions/sensibiliser/"
+
+[[redirects]]
+from = "/projet/index.html"
+to = "/jeux/"
+
+[[redirects]]
+from = "/jeux/inclure/index.html"
+to = "/jeux/actions/comprendre/"
+
+[[redirects]]
+from = "/jeux/sinformer/index.html"
+to = "/jeux/actions/sinformer/"
+
+[[redirects]]
+from = "/jeux/comprendre/index.html"
+to = "/jeux/actions/comprendre/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/jeux/"
+
+[[redirects]]
+from = "/les-jeux/index.html"
+to = "/jeux/"
+
